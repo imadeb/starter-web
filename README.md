@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ##Deployement
 
-Text
+This is a simple web project
 
 ## How To Contribute
 
